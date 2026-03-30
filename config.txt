@@ -1,3 +1,2 @@
-server = nginx
+server = tomcat
 port = 8080
-env = production
