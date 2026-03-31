@@ -1,4 +1,3 @@
-
-server = apache
-port = 8080
-env = production
+server = nginx
+port = 9090
+env = staging
