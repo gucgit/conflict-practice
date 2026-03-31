@@ -1,3 +1,3 @@
-server = nginx
+server = caddy
 port = 9090
 env = staging
